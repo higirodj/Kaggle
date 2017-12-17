@@ -1,1 +1,1 @@
-This repository contains files for various Kaggle competitions.
+This repository contains files for machine learning projects.
